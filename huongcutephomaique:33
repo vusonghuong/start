@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>vshweb</title>
+</head>
+<body>
+   <img src="https://scontent.fhan5-3.fna.fbcdn.net/v/t1.6435-9/210998734_1239355519859087_9058783352761151082_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=KwveBAj3Pg0AX9gASZ2&_nc_ht=scontent.fhan5-3.fna&oh=1b72d27c392b94e95dea9ddea8418152&oe=6188BD5F" alt="">
+   <h3>huong ngokngech ngot ngao cute pho mai que :33</h3>
+   <div>
+       <p>Mụt chút ìn pho mây sần của vsh nè: </p>
+       <ul> 
+           <li> 3m bẻ đôi </li>
+           <li> lười chảy thây </li>
+           <li> ngủ khum biết trời đấc là zì</li>
+       </ul>
+   </div>
+   <div> 
+       <h3>
+           Mún hỏi chi khumm ??
+       </h3>
+       <form>
+          <input type="text" placeholder="Viết zô đây nè" /> 
+          <button> 
+              Gửi đi nờ
+          </button>
+        <form>
+   </div>
+
+   <footer>
+       <h3>
+           Fb ngta đây nì. Nhắn tin đi nì :33
+       </h3>
+       <ul>
+           <li> fb: https://www.facebook.com/vsh0902.02/photos_by</li>
+       </ul>
+   </footer>
+</body>
+</html>
